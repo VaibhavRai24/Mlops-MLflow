@@ -38,7 +38,7 @@ with mlflow.start_run():
     mlflow.log_metric("accuracy", accuracy)
     mlflow.log_artifact("confusion_matrix.png")
     mlflow.log_artifact(__file__)
-    mlflow.log_dataset(wine, "wine")
+    
     mlflow.sklearn.log_model(rf, "model")
     mlflow.set_tags({"data": "wine", "model": "RandomForest"})
     print(accuracy)
