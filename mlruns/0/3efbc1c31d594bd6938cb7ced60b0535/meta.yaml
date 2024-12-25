@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/VAIBHAVRAI/OneDrive/Desktop/working%20in%20mlops/mlruns/0/3efbc1c31d594bd6938cb7ced60b0535/artifacts
+end_time: 1735106027923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3efbc1c31d594bd6938cb7ced60b0535
+run_name: resilient-fly-566
+run_uuid: 3efbc1c31d594bd6938cb7ced60b0535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735106027833
+status: 3
+tags: []
+user_id: VAIBHAVRAI

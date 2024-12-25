@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/VAIBHAVRAI/OneDrive/Desktop/working%20in%20mlops/mlruns/0/d4fba8079f154017b2eb1b6c453ed33c/artifacts
+end_time: 1735109442838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4fba8079f154017b2eb1b6c453ed33c
+run_name: auspicious-elk-21
+run_uuid: d4fba8079f154017b2eb1b6c453ed33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735109432149
+status: 3
+tags: []
+user_id: VAIBHAVRAI

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/VAIBHAVRAI/OneDrive/Desktop/working%20in%20mlops/mlruns/0/c6dad9b1f19747878f3f0271740521c5/artifacts
+end_time: 1735107769751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6dad9b1f19747878f3f0271740521c5
+run_name: bright-kit-607
+run_uuid: c6dad9b1f19747878f3f0271740521c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735107768482
+status: 3
+tags: []
+user_id: VAIBHAVRAI

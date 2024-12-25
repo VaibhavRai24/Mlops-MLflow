@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/VAIBHAVRAI/OneDrive/Desktop/working%20in%20mlops/mlruns/0/d9337745a8534d5e9e0391446a4a573a/artifacts
+end_time: 1735109546308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9337745a8534d5e9e0391446a4a573a
+run_name: unique-skunk-719
+run_uuid: d9337745a8534d5e9e0391446a4a573a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735109545758
+status: 4
+tags: []
+user_id: VAIBHAVRAI

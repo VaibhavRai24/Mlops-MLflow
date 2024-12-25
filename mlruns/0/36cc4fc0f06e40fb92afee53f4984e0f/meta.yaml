@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/VAIBHAVRAI/OneDrive/Desktop/working%20in%20mlops/mlruns/0/36cc4fc0f06e40fb92afee53f4984e0f/artifacts
+deleted_time: 1735106044529
+end_time: 1735105793559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 36cc4fc0f06e40fb92afee53f4984e0f
+run_name: clumsy-ox-426
+run_uuid: 36cc4fc0f06e40fb92afee53f4984e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735105793459
+status: 4
+tags: []
+user_id: VAIBHAVRAI
